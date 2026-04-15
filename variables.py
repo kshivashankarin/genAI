@@ -58,5 +58,4 @@ is_active = True
 print(type(rank))
 print(type(friend_name))
 print(type(balance))
-
 print(type(is_active))
