@@ -46,8 +46,25 @@ n = 0
 #     print(str(i) + " Hello World")
     
     
-for i in range(3):
-   for j in range(3):
-       print(i, j)
+# for i in range(3):
+#    for j in range(3):
+#        print(i, j)
 
     
+    
+import random
+
+# number = 5
+number = random.randint(1, 5)
+
+print("Guessing number is " + str(number))
+
+user_guessing = input("Guess the number: ")
+
+while True:
+    if user_guessing == str(number):
+        print("You win")
+        break
+    else:    
+        print("You can guess again")
+        user_guessing = input("Guess the number: ")
