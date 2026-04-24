@@ -1,0 +1,3 @@
+
+
+print("Helper functions initialized.")

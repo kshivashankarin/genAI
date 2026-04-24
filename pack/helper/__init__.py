@@ -1,0 +1,1 @@
+print("Helper is initialized.")
