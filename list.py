@@ -113,8 +113,68 @@ students_marks = [85, 92, 85, 78, 90, 88, 95, 80, 82, 91, 89]
 # print(c)
 
 
-words = ["apple", "banana", "zzzz", "kiwi", "toyu"]
+# words = ["apple", "banana"]
+# words1 = ["banana", "apple"]
 
-words.sort(key=len)
 
-print(words)
+# print(words)
+# print(words1)
+
+
+# s1 = {1, 2, 3}
+# s2 = {2, 1, 3}
+
+
+# print(s1)
+# print(s2)
+
+
+# students = ["bennu", "guna"]
+
+# students[0] = "arun"
+
+# print(students)
+
+
+
+# t2 = (1, 2, 3)
+
+# t2[1] = 7
+
+# print(t2[1])
+
+
+
+
+
+# duplicate
+
+
+# student = ["guna", "senthil", "bala", "bala"]
+
+
+# print(student[2])
+
+
+
+# s1 = {"guna", "senthil", "bala", "bala"}
+
+
+# print(s1[2])
+
+
+
+# keys and values
+
+# # dict
+# students = {"name": "Amutha", "mark": 25}
+
+
+# print("mark of " +students['name'] + " is " + str(students["mark"]))
+            
+
+
+
+# # list
+# student = ["name", "bennu","age", 37]
+
