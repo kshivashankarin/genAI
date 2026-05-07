@@ -178,3 +178,9 @@ students_marks = [85, 92, 85, 78, 90, 88, 95, 80, 82, 91, 89]
 # # list
 # student = ["name", "bennu","age", 37]
 
+
+name = {"guna", "bennu", "bennu"}
+
+
+print(name)
+

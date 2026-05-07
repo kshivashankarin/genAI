@@ -52,19 +52,29 @@ n = 0
 
     
     
-import random
+# import random
 
-# number = 5
-number = random.randint(1, 5)
+# # number = 5
+# number = random.randint(1, 5)
 
-print("Guessing number is " + str(number))
+# print("Guessing number is " + str(number))
 
-user_guessing = input("Guess the number: ")
+# user_guessing = input("Guess the number: ")
 
-while True:
-    if user_guessing == str(number):
-        print("You win")
-        break
-    else:    
-        print("You can guess again")
-        user_guessing = input("Guess the number: ")
+# while True:
+#     if user_guessing == str(number):
+#         print("You win")
+#         break
+#     else:    
+#         print("You can guess again")
+#         user_guessing = input("Guess the number: ")
+        
+        
+        
+# text = "Generative AI"
+# count = 0
+
+# for each_letter in text:
+#     count += 1
+
+# print("Number of characters:", count)
